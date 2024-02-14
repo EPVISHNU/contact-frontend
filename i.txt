@@ -1,0 +1,4 @@
+ <MDBNavbarBrand href='/'>
+          <i class="fa-sharp fa-solid fa-phone  fs-1 text-warning ms-3"></i>
+            <h1 className='mt-2 ms-3 text-secondary'><b>reachOut</b></h1>
+          </MDBNavbarBrand>
